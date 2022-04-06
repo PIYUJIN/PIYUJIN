@@ -1,6 +1,6 @@
-Hi, I’m PI YUJIN👋
+Hi, I’m ***PI YUJIN***👋
 
-SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학
+*SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학*
 
 📔 I did ...
     
@@ -9,6 +9,13 @@ SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology 
 👀 I’m interested in ...
 
 🌱 I’m currently learning ...
+
+    - PYTHON (프로그래밍언어 / data mining)
+    - JAVA (operating systems design)
+    - C programming (operating systems design)
+    - R (통계처리입문)
+    - SQL (database management)
+    - HADOOP (database practice web programming)
 
 📫 How to contact me ...
 
