@@ -12,7 +12,7 @@ Hi, I’m ***PI YUJIN***👋
 
 ✍ I get certified ...
 
-    - ADsP(데이터분석 준전문가)
+    - ADsP (데이터분석 준전문가)
     - ITQ 아래한글
     - IELTS 6.0/9.0
 
