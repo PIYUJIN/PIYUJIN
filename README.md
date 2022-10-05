@@ -1,7 +1,8 @@
 Hi, I’m ***PI YUJIN***👋
 
 *SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학*
-*SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학*
+
+*UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITM(Information Technology Management) Junior Dual*
 
 📔 I did ...
     
