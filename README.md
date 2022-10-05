@@ -1,6 +1,7 @@
 Hi, I’m ***PI YUJIN***👋
 
 *SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학*
+*SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학*
 
 📔 I did ...
     
