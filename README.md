@@ -46,15 +46,15 @@ Hi, I’m ***PI YUJIN***👋
     - ITQ 아래한글
     - IELTS 6.0/9.0
 
-👀 I’m interested in ...
-
 🌱 I’m currently learning ...
 
-    - PYTHON (프로그래밍언어 / data mining)
+    - PYTHON (programming language / data mining / business analytics)
     - JAVA (operating systems design)
-    - C programming (operating systems design)
-    - R (통계처리입문)
+    - C programming (operating systems design / computer system)
+    - PHP / JAVASCRIPT (database practice web programming)
+    - R (Introduction to statistical processing)
     - SQL (database management)
+    - KOTLIN (mobile programming)
 
 📫 How to contact me ...
 
