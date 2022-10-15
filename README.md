@@ -26,18 +26,20 @@ Hi, I’m ***PI YUJIN***👋
         Learn about the scalability of training posture correction technology using motion recognition
         Apply the knowledge gained from the interview to the PINGPONG AI project
         
-    - 2021 IT Service Development Contest (Silver Award🥈)
+    - 2021 IT 서비스 공모전(개발) (Silver Award🥈)
 
         Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
     
-    - 2021 IT Service Idea Project Management Contest (Gold Award🥇)
+    - 2021 IT 서비스 공모전(기획) (Gold Award🥇)
 
         Idea development of "Surabi" that is prescription, medical certificate, health examination results management application
+        
+    - 2021 Global Challenger (Gold Award🥇)
 
-    - 2020 IT Service Development Contest (Bronze Award🥉)
+    - 2020 IT 서비스 공모전(개발) (Bronze Award🥉)
         
     
-    - 2020 IT Service Idea Project Management Contest (Bronze Award🥉)
+    - 2020 IT 서비스 공모전(기획) (Bronze Award🥉)
     
 
 ✍ I get certified ...
