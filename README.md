@@ -42,8 +42,7 @@ Hi, I’m ***PI YUJIN***👋
         
     
     - 2020 IT 서비스 공모전(기획) (Bronze Award🥉)
-    
-
+ 
 ✍ I get certified ...
 
     - ADsP (데이터분석 준전문가)
@@ -59,6 +58,12 @@ Hi, I’m ***PI YUJIN***👋
     - R (Introduction to statistical processing)
     - SQL (database management)
     - KOTLIN (mobile programming)
+
+
+💻 I did project ...
+
+- [이지재감](https://github.com/muhanmu2jo/IT_SERVICE.git)
+
 
 📫 How to contact me ...
 
