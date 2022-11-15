@@ -6,13 +6,15 @@ Hi, I’m ***PI YUJIN***👋
 
 📔 I did ...
     
-    - 2022 창업동아리 (PINGPONG AI)
+    - 2022 창업동아리 
         ▷ 시기적절 창업대회
         ▷ 제 2차 스타트업 런치
         ▷ 2022 창업동아리 온라인 교육
+       
     - 한이음 ICT 멘토링 (외부 데이터 결합을 통한 차별화된 마이데이터 BM 개발)
         ▷ 한국정보처리학회 학술대회
         ▷ 한이음 ICT 멘토링 공모전
+
     - 2022년 서울런 멘토단 
     - 핀테크 리더스 아카데미
     - FSS 금융 아카데미
@@ -20,11 +22,11 @@ Hi, I’m ***PI YUJIN***👋
     
 🏆 I got award ...
 
+    - 2022 대학기술경영촉진사업 시기적절 창업대회 (도전리그 Winner Award🏅)
+    
     - 2022 Global Challenger (Gold Award🥇)
         Researched on computer vision industry
         Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
-        Learn about the scalability of training posture correction technology using motion recognition
-        Apply the knowledge gained from the interview to the PINGPONG AI project
         
     - 2021 IT 서비스 공모전(개발) (Silver Award🥈)
 
