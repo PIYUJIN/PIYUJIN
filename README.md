@@ -22,6 +22,10 @@ Hi, I’m ***PI YUJIN***👋
     
 🏆 I got award ...
 
+    - 2022 IT 서비스 공모전(개발) (Grand Award🏅)
+    
+    - 2022 IT 서비스 공모전(기획) (Grand Award🏅)
+   
     - 2022 대학기술경영촉진사업 시기적절 창업대회 (도전리그 Winner Award🏅)
     
     - 2022 Global Challenger (Gold Award🥇)
