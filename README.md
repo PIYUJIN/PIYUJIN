@@ -69,7 +69,7 @@ Hi, I’m ***PI YUJIN***👋
 - [창업동아리 : PINGPONG AI](https://magazine.hankyung.com/job-joy/article/202212194247d)
 - [IT 서비스 공모전 : 이지재감](https://github.com/muhanmu2jo/IT_SERVICE.git)
 - [Database Practice Web Programming Team Project : TREN D_CATCHER](https://github.com/jeonghyeonee/DB-Web_Project.git)
-- [Business Analytics Team Project](https://github.com/jeewonkimm2/Business_Analytics.git)
+- [Business Analytics Team Project : Prediction of integration and abolition for university](https://github.com/jeewonkimm2/Business_Analytics.git)
 
 
 
