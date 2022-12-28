@@ -33,11 +33,9 @@ Hi, I’m ***PI YUJIN***👋
         Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
         
     - 2021 IT 서비스 공모전(개발) (Silver Award🥈)
-
         Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
     
     - 2021 IT 서비스 공모전(기획) (Gold Award🥇)
-
         Idea development of "Surabi" that is prescription, medical certificate, health examination results management application
         
     - 2021 Global Challenger (Gold Award🥇)
