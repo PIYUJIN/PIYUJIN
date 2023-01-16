@@ -2,7 +2,7 @@ Hi, I’m ***PI YUJIN***👋
 
 *SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학*
 
-*UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, Industrial Engineering 복수학위*
+*UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITMB(Information Technology Management for Business) 복수학위*
 
 📔 I did ...
     
