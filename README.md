@@ -80,7 +80,7 @@ Hi, I’m ***PI YUJIN***👋
 - [Mobile Programming Team Project : BABYGAGE](https://github.com/BABYGAGE/kotlin.git)
 - [IT 서비스 공모전 : 이지재감](https://github.com/muhanmu2jo/IT_SERVICE.git)
 - [Database Practice Web Programming Team Project : TREN D_CATCHER](https://github.com/database-web-programming-project/DB-Web_Project.git)
-- [Business Analytics Team Project : Prediction of integration and abolition for university](https://github.com/jeewonkimm2/Business_Analytics.git)
+- [Business Analytics Team Project : Prediction of integration and abolition for university](https://github.com/PIYUJIN/Prediction_of_integration_and_abolition_for_university.git)
 
 
 
