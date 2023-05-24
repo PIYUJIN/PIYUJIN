@@ -73,7 +73,6 @@ Hi, I’m ***PI YUJIN***👋
     - R (Introduction to statistical processing)
     - SQL (database management)
     - KOTLIN (mobile programming)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&layout=compact"><br><br>
 
 💻 I did project ...
 
