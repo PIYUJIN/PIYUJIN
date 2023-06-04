@@ -82,11 +82,10 @@ Hi, I’m ***PI YUJIN***👋
 - [Database Practice Web Programming Team Project : TREN D_CATCHER](https://github.com/database-web-programming-project/DB-Web_Project.git)
 - [Business Analytics Team Project : Prediction of integration and abolition for university](https://github.com/PIYUJIN/Prediction_of_integration_and_abolition_for_university.git)
 
-
-
 📫 How to contact me ...
 
     - e-mail : 20102125@seoultech.ac.kr
+    - velog : https://velog.io/@pujin
 
 <!---
 PIYUJIN/PIYUJIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
