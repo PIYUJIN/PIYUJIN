@@ -37,6 +37,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - 핀테크 리더스 아카데미
     - FSS 금융 아카데미
     - ST 빅데이터 기초/심화 교육
+    - 서울과학기술대학교 ITM전공 위잉위잉/프레젠트 학생회 사무부원/사무부장
     
 🏆 I got award ...
 
@@ -85,6 +86,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
 💻 I did project ...
 
+- [창업동아리 : 하이볼리](https://github.com/highbally)
 - [창업동아리 : PINGPONG AI](https://magazine.hankyung.com/job-joy/article/202212194247d)
 - [Mobile Programming Team Project : BABYGAGE](https://github.com/BABYGAGE/kotlin.git)
 - [IT 서비스 공모전 : 이지재감](https://github.com/muhanmu2jo/IT_SERVICE.git)
