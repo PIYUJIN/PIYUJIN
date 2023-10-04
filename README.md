@@ -18,7 +18,8 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
         
     - 2023 서울과학기술대학교 창업동아리 (하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션, 하이볼리”)
         ▷ 2023 한이음 ICT 멘토링 
-        ▷ 2023 하나 소셜벤처 유니버시티
+        ▷ 시기적절 창업대회
+        ▷ 2023 학생창업유망팀 300 성장트랙(서울)
    
     - 2022 서울과학기술대학교 창업동아리 (탁구 연습 시 사용자의 자세와 스트로크를 인식하여 1인 트레이닝이 가능한 Computer Vision 기반 AI 서비스 & 연습 보조용 탁구공 발사기)
         ▷ ST 창업페스티벌
@@ -42,6 +43,10 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - 서울과학기술대학교 ITM전공 위잉위잉, 프레젠트 학생회 사무부원/사무부장
     
 🏆 I got award ...
+
+    - 멋쟁이 사자처럼 TECH!T 앱/안드로이드 스쿨 최종프로젝트 (최우수상🥇)
+
+    - 한국대학생IT경영학회 KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 (최우수상🏅)
 
     - 2022 서울 노원지역 4개 대학 연합 ESG 창업 아이디어 경진대회 (Grand Award🏅)
     
@@ -82,13 +87,15 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - PHP / JAVASCRIPT (database practice web programming)
     - R (Introduction to statistical processing)
     - SQL (database management)
-    - KOTLIN (mobile programming)
+    - KOTLIN (mobile programming, TECH!T APP SCHOOL, KUSITMS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 I did project ...
 
 - [창업동아리 : 하이볼리](https://github.com/highbally)
+- [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://github.com/APPSCHOOL2-Android/FinalProject-Dont-Forget)
+- [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
 - [창업동아리 : PINGPONG AI](https://magazine.hankyung.com/job-joy/article/202212194247d)
 - [Mobile Programming Team Project : BABYGAGE](https://github.com/BABYGAGE/kotlin.git)
 - [IT 서비스 공모전 : 이지재감](https://github.com/muhanmu2jo/IT_SERVICE.git)
