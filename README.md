@@ -98,7 +98,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 - [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
 - [TECH!T 앱/안드로이드 스쿨 : KEEP GARDENING](https://github.com/APPSCHOOL2-Android/FinalProject-ShoppingMallService-team6)
 - [창업동아리 : PINGPONG AI](https://magazine.hankyung.com/job-joy/article/202212194247d)
-- [Mobile Programming Team Project : BABYGAGE](https://github.com/BABYGAGE/kotlin.git)
+- [Mobile Programming Team Project : BABYGAGE](https://github.com/BABYGAGE)
 - [IT 서비스 공모전 : 이지재감](https://github.com/muhanmu2jo/IT_SERVICE.git)
 - [Database Practice Web Programming Team Project : TREN D_CATCHER](https://github.com/database-web-programming-project/DB-Web_Project.git)
 - [Business Analytics Team Project : Prediction of integration and abolition for university](https://github.com/PIYUJIN/Prediction_of_integration_and_abolition_for_university.git)
