@@ -70,7 +70,6 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
     - 2020 IT 서비스 공모전(개발) (Bronze Award🥉)
         
-    
     - 2020 IT 서비스 공모전(기획) (Bronze Award🥉)
  
 ✍ I get certified ...
