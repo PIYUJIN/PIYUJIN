@@ -94,7 +94,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
 💻 I did project ...
 
-- [창업동아리 : 하이볼리](https://github.com/highbally)
+- [창업동아리 : 하이볼리](https://play.google.com/store/apps/details?id=com.highbally.highbally)
 - [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://github.com/APPSCHOOL2-Android/FinalProject-Dont-Forget)
 - [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
 - [TECH!T 앱/안드로이드 스쿨 : KEEP GARDENING](https://github.com/APPSCHOOL2-Android/FinalProject-ShoppingMallService-team6)
