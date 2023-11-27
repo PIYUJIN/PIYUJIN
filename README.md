@@ -33,7 +33,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
         ▷ 한국정보처리학회 학술대회
         ▷ 한이음 ICT 멘토링 공모전
 
-    - 한국대학생IT경영학회 KUSITMS 개발-안드로이드 파트
+    - 한국대학생IT경영학회 KUSITMS 28기 개발-안드로이드 파트
     - 23년 삼성증권 하반기 디지털/IT 학회연계 프로그램
     - 멋쟁이 사자처럼 TECH!T 앱/안드로이드 스쿨
     - 2023 프로메테우스 STARTUP HACKATHON 
@@ -96,6 +96,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
 - [창업동아리 : 하이볼리](https://play.google.com/store/apps/details?id=com.highbally.highbally)
 - [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget)
+- [KUSITMS 밋업데이 : 집밥도착](https://github.com/28th-meetup)
 - [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
 - [TECH!T 앱/안드로이드 스쿨 : KEEP GARDENING](https://github.com/APPSCHOOL2-Android/FinalProject-ShoppingMallService-team6)
 - [창업동아리 : PINGPONG AI](https://magazine.hankyung.com/job-joy/article/202212194247d)
@@ -108,8 +109,3 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
     - e-mail : 20102125@seoultech.ac.kr
     - velog : https://velog.io/@pujin
-
-<!---
-PIYUJIN/PIYUJIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
