@@ -90,7 +90,8 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - SQL (database management)
     - KOTLIN (mobile programming, TECH!T APP SCHOOL, KUSITMS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&hide=jupyter%20notebook&theme=transparent&line_height=22&title_color=F8418B)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; 
+<!-- ![PIYUJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIYUJIN&show_icons=true&title_color=F8418B&icon_color=F1D246&text_color=8C9196&line_height=26&custom_title=PUJIN's&nbsp;GitHub&nbsp;Stats&theme=transparent) -->
 
 💻 I did project ...
 
