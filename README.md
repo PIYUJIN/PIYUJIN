@@ -37,6 +37,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - 23년 삼성증권 하반기 디지털/IT 학회연계 프로그램
     - 멋쟁이 사자처럼 TECH!T 앱/안드로이드 스쿨
     - 2023 프로메테우스 STARTUP HACKATHON 
+    - 2023 마이데이터 국민참여단
     - 카카오뱅크 제4기 고객자문단
     - 2022년 서울런 멘토단 
     - 핀테크 리더스 아카데미
@@ -82,13 +83,13 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
 🌱 I’m currently learning ...
 
+    - KOTLIN (mobile programming, TECH!T APP SCHOOL, KUSITMS)
     - PYTHON (programming language / data mining / business analytics)
     - JAVA (operating systems design)
     - C programming (operating systems design / computer system)
     - PHP / JAVASCRIPT (database practice web programming)
     - R (Introduction to statistical processing)
     - SQL (database management)
-    - KOTLIN (mobile programming, TECH!T APP SCHOOL, KUSITMS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&hide=jupyter%20notebook&theme=transparent&line_height=22&title_color=FFFFFF&border_color=3D3D3D)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; 
 ![PIYUJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIYUJIN&show_icons=true&title_color=F8418B&icon_color=F1D246&text_color=8C9196&line_height=26&custom_title=PUJIN's&nbsp;GitHub&nbsp;Stats&theme=transparent&border_color=3D3D3D)
@@ -99,6 +100,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 - [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget)
 - [KUSITMS 밋업데이 : 집밥도착](https://github.com/28th-meetup)
 - [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
+- [23년 삼성증권 하반기 디지털/IT 학회연계 프로그램](https://github.com/23-Samsung-Securities)
 - [TECH!T 앱/안드로이드 스쿨 : KEEP GARDENING](https://github.com/APPSCHOOL2-Android/FinalProject-ShoppingMallService-team6)
 - [창업동아리 : PINGPONG AI](https://magazine.hankyung.com/job-joy/article/202212194247d)
 - [Mobile Programming Team Project : BABYGAGE](https://github.com/BABYGAGE)
