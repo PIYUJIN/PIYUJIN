@@ -91,10 +91,13 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - R (Introduction to statistical processing)
     - SQL (database management)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&hide=jupyter%20notebook&theme=transparent&show_icons=true&line_height=22&title_color=F1D246&bord3D3D&text_color=8C9196&border_color=3D3D3D)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; 
-![PIYUJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIYUJIN&show_icons=true&title_color=F8418B&icon_color=F1D246&text_color=8C9196&line_height=26&custom_title=PUJIN's&nbsp;GitHub&nbsp;Stats&theme=transparent&border_color=3D3D3D)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&theme=transparent&hide=jupyter%20notebook&show_icons=true&line_height=22&count_private=true&title_color=F1D246&bord3D3D&text_color=8C9196&border_color=3D3D3D)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; 
+![PIYUJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIYUJIN&show_icons=true&title_color=F8418B&icon_color=F1D246&text_color=8C9196&line_height=26&count_private=true&custom_title=PUJIN's&nbsp;GitHub&nbsp;Stats&theme=transparent&border_color=3D3D3D)
 
 💻 I did project ...
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PIYUJIN&repo=github-readme-stats)](링크) -->
+
 
 - [창업동아리 : 하이볼리](https://play.google.com/store/apps/details?id=com.highbally.highbally)
 - [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget)
