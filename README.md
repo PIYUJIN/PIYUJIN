@@ -92,7 +92,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - R (Introduction to statistical processing)
     - SQL (database management)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&theme=transparent&exclude_repo=Prediction_of_integration_and_abolition_for_university,Business-Analytics_term-project&show_icons=true&line_height=22&count_private=true&title_color=F1D246&bord3D3D&text_color=8C9196&border_color=3D3D3D)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUJIN&theme=transparent&exclude_repo=Prediction_of_integration_and_abolition_for_university,Business-Analytics_term-project&show_icons=true&line_height=22&count_private=true&title_color=F1D246&bord3D3D&text_color=8C9196&border_color=3D3D3D)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;  -->
 ![PIYUJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIYUJIN&show_icons=true&title_color=F8418B&icon_color=F1D246&text_color=8C9196&line_height=26&count_private=true&custom_title=PUJIN's&nbsp;GitHub&nbsp;Stats&theme=transparent&border_color=3D3D3D)
 
 💻 I did project ...
