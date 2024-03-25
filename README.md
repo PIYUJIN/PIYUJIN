@@ -37,6 +37,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - 23년 삼성증권 하반기 디지털/IT 학회연계 프로그램
     - 멋쟁이 사자처럼 TECH!T 앱/안드로이드 스쿨
     - DEVOCEAN YOUNG 3기
+    - 구름톤 유니브 2기
     - SPARCS Service Hackathon
     - 2023 프로메테우스 STARTUP HACKATHON 
     - 2023 마이데이터 국민참여단
@@ -48,6 +49,8 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
     - 서울과학기술대학교 ITM전공 위잉위잉, 프레젠트 학생회 사무부원/사무부장
     
 🏆 I got award ...
+
+    - 구름톤 유니브 2기 벚꽃톤 (최우수상🥇)
 
     - 멋쟁이 사자처럼 TECH!T 앱/안드로이드 스쿨 최종프로젝트 (최우수상🥇)
 
@@ -103,6 +106,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
 - [창업동아리 : 하이볼리](https://play.google.com/store/apps/details?id=com.highbally.highbally)
 - [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget)
+- [구름톤 유니브 : 발표몇분](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_32_FE.git)
 - [KUSITMS 밋업데이 : 집밥도착](https://github.com/28th-meetup)
 - [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
 - [SPARCS Service Hackathon : CITY FARMER](https://github.com/SPARCS-Service-Hackathon-2024/A6-App.git)
