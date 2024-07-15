@@ -34,6 +34,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
         ▷ 한이음 ICT 멘토링 공모전
 
     - 한국대학생IT경영학회 KUSITMS 28기 개발-안드로이드 파트
+    - 서울과학기술대학교 구름톤 유니브 3기 대표
     - 23년 삼성증권 하반기 디지털/IT 학회연계 프로그램
     - 멋쟁이 사자처럼 TECH!T 앱/안드로이드 스쿨
     - DEVOCEAN YOUNG 3기
