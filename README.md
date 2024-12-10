@@ -53,6 +53,8 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
     - 구름톤 유니브 2기 벚꽃톤 (최우수상🥇)
 
+    - 구름톤 유니브 3기 단풍톤 (Lottie Files 특별상🥇)
+
     - 멋쟁이 사자처럼 TECH!T 앱/안드로이드 스쿨 최종프로젝트 (최우수상🥇)
 
     - 한국대학생IT경영학회 KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 (최우수상🏅)
@@ -108,6 +110,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 - [창업동아리 : 하이볼리](https://play.google.com/store/apps/details?id=com.highbally.highbally)
 - [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget)
 - [구름톤 유니브 : 발표몇분](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_32_FE.git)
+- [구름톤 유니브 : 장부리치](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_5_FE_1.git)
 - [KUSITMS 밋업데이 : 집밥도착](https://github.com/28th-meetup)
 - [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
 - [SPARCS Service Hackathon : CITY FARMER](https://github.com/SPARCS-Service-Hackathon-2024/A6-App.git)
