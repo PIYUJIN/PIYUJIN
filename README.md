@@ -85,6 +85,7 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
  
 ✍ I get certified ...
 
+    - 정보처리기사
     - ADsP (데이터분석 준전문가)
     - ITQ 아래한글
     - IELTS 6.0/9.0
