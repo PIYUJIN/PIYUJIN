@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF51CE&height=200&section=header&text=PUJIN'S%20GitHub!&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5351FF&height=200&section=header&text=PUJIN'S%20GitHub!&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
 
 Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?pvs=4_)👋
 
