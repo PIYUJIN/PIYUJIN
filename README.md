@@ -108,10 +108,12 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PIYUJIN&repo=github-readme-stats)](링크) -->
 
 
-- [창업동아리 : 하이볼리](https://play.google.com/store/apps/details?id=com.highbally.highbally)
-- [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget)
+- [창업동아리 : 드링클리](https://litt.ly/drinkly_official)
+- [창업동아리 : 하이볼리](https://github.com/highbally)
+- [사이드 프로젝트 : 스코어](https://play.google.com/store/apps/details?id=com.team.score)
 - [구름톤 유니브 : 발표몇분](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_32_FE.git)
 - [구름톤 유니브 : 장부리치](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_5_FE_1.git)
+- [TECH!T 앱/안드로이드 스쿨 : 까먹지마](https://play.google.com/store/apps/details?id=com.test.dontforget)
 - [KUSITMS 밋업데이 : 집밥도착](https://github.com/28th-meetup)
 - [KUSITMS 기업프로젝트 HDMEDI 제품 및 서비스(앱) 개발 부문 : 아이약](https://github.com/KUSITMS-HDmedi-A)
 - [SPARCS Service Hackathon : CITY FARMER](https://github.com/SPARCS-Service-Hackathon-2024/A6-App.git)
@@ -125,5 +127,5 @@ Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?
 
 📫 How to contact me ...
 
-    - e-mail : 20102125@seoultech.ac.kr
+    - e-mail : yjyj020201@naver.com
     - velog : https://velog.io/@pujin
