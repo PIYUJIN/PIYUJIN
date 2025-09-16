@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5351FF&height=200&section=header&text=PUJIN'S%20GitHub!&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
 
-Hi, I’m [PI YUJIN](https://pujin.notion.site/190c052cfda8426aa257a404ee1f4b08?pvs=4_)👋
+Hi, I’m [PI YUJIN](https://pujin.notion.site/270e72273cbb80b8a602ed132d2fc5bb?source=copy_link)👋
 
 *SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 재학*
 
